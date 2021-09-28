@@ -5,10 +5,10 @@
 </p>
 
 <h3 align="center">
-  Tesla UI Clone
+  Let me Ask
 </h3>
 
-<p align="center"><a href="https://React_LetMeAsk.vercel.app/">Test this project</a> </p>
+<p align="center"><a href="https://letmeask-323a7.web.app/">Test this project</a> </p>
 
 <p align="center">
 
